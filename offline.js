@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1702839939,
+	"version": 1702840464,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,8 +32,6 @@
 		"images/spf_boardscore.png",
 		"images/obj_new-sheet0.png",
 		"images/obj_pipes3-sheet0.png",
-		"images/obj_pipes2-sheet0.png",
-		"images/obj_pipes4-sheet0.png",
 		"media/coin.ogg",
 		"media/fan.ogg",
 		"media/flip.ogg",
